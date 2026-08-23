@@ -1,5 +1,6 @@
-remote_theme: pages-themes/cayman@v0.2.0
+<!--remote_theme: pages-themes/cayman@v0.2.0 -->
+remote_theme: just-the-docs/just-the-docs
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-title: ..
+title: Join us in rebuilding the Python community and continuing the mission of empowering diverse women to excel in technology careers.
 description: WiSPY – Women in Software & Python
