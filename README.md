@@ -1,4 +1,4 @@
-<sub>~ Legacy Women Who Code Python Track community</sub>
+[!Banner Logo for WiSPY](/assets/2025_womeninsoftwarepython-wispy_banner.PNG)
 
 # Join us in rebuilding the Python community and continuing the mission of empowering diverse women to excel in technology careers.
 
@@ -30,6 +30,9 @@ Join us for hands-on workshops, collaborative coding sessions, and networking op
 - [Linkedin Community Group](https://www.linkedin.com/groups/14431749/)
 - [Discord](https://discord.gg/eXPJSSHdsg)
 
+## Assets
+<img src="https://github.com/womeninsoftwarepython/womeninsoftwarepython.github.io/blob/main/assets/2025_womeninsoftwarepython-wispy_square.PNG?raw=true" width="40%">
+
 ## 📬 Stay Updated
 Want to get updates on this project? 
 We are currently coordinating with legacy volunteers on event ideas.
@@ -48,6 +51,7 @@ Legacy Women Who Code Vancouver Director and legacy Leadership Fellow for Women 
 <sub>_Made with love by [Eliza Sarobhasa](https://ca.linkedin.com/in/elizasarobhasa)_</sub>
 
 > [!NOTE]
+> - <sub>~ Legacy Women Who Code Python Track community</sub>
 > - <sub>https://womeninsoftwarepython.github.io/</sub>
 > - <sub>https://www.womeninsoftware.com/python</sub>
 
