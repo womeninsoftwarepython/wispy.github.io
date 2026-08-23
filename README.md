@@ -1,4 +1,4 @@
-[!Banner Logo for WiSPY](/assets/2025_womeninsoftwarepython-wispy_banner.PNG)
+![Banner Logo for WiSPY](/assets/2025_womeninsoftwarepython-wispy_banner.PNG)
 
 # Join us in rebuilding the Python community and continuing the mission of empowering diverse women to excel in technology careers.
 
